@@ -6,11 +6,3 @@
     justify-content:space-between;
     flex-wrap: wrap;
 }
-.flex-container>div{
-    width: 100px;
-    margin: 5px;
-    font-size: 25px;
-    background-color: blue;
-    text-align: center;
-    padding: 15px;
-}
