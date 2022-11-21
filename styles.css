@@ -1,12 +1,12 @@
 
 /* Your CSS Code here. */
-.grid-container{
+.flex-container{
     background-color: aqua;
     display: flex;
     justify-content:space-between;
     flex-wrap: wrap;
 }
-.grid-container>div{
+.flex-container>div{
     width: 100px;
     margin: 5px;
     font-size: 25px;
